@@ -1,7 +1,7 @@
 {
-  "name": "todo-api",
+  "name": "user-authentication-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Adding users and testing using Mocha - Chai",
   "main": "testMongo.js",
   "scripts": {
     "start": "node server/server.js",

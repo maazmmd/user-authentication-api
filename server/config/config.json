@@ -2,11 +2,11 @@
   "development":{
     "MONGODB_URI": "mongodb://localhost/testDB",
     "PORT": "3300",
-    "JWT_SECRET" : "random_secret_key"
+    "JWT_SECRET" : "kjwdjs65$ikksop0982shj"
   },
   "test":{
     "MONGODB_URI": "mongodb://localhost/testDB",
     "PORT": "4000",
-    "JWT_SECRET" : "random_secret_key"
+    "JWT_SECRET" : "kjwdjs65$ikksop0982shj"
   }
 }
